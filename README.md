@@ -2,48 +2,48 @@
 
 
 <h2>Project Details</h2>
-Splunk (one of the most popular security information and event management (SIEM) platforms in the world) is a powerful tool used by cybersecurity professionals to monitor, search, and analyze machine-generated big data via a web-style interface. This lab focuses on understanding how to use Splunk for effective monitoring and detection of potential security threats.<br />
+This lab focuses on using Wireshark, a powerful network protocol analyzer, to simulate and detect various network attacks. The hands-on experience was designed to enhance my skills in network security analysis by providing a safe, pre-configured environment to practice detecting malicious activities.<br />
 <br />
 
 **Tasks Breakdown:**
 
 **Task 1: Getting Started in the Lab Environment**
 
-Started by initializing the lab environment which involved setting up the Splunk infrastructure. This foundational step is essential as it ensures all data ingestion and analysis can be performed efficiently.
+Started by initializing the lab environment, which involved setting up the necessary infrastructure. This foundational step ensures that all tools and applications, including Wireshark and the Attack Application, are ready for use.
 
-**Task 2: Uploading Data to Splunk**
+**Task 2: Using the Attack Application (PS ATTACK ENGINE)**
 
-Learned how to upload various types of data to Splunk. This is crucial for ensuring that the data needed for analysis is correctly integrated into the system.
+Learned how to use the Attack Application: PS ATTACK ENGINE (Network TTPs) to simulate different types of network attacks. This is crucial for generating the network traffic needed for analysis.
 
-**Task 3: Performing Searches in Splunk**
+**Task 3: Capturing Packets with Wireshark**
 
-Conducted searches within Splunk to locate specific information. Mastering search commands and understanding the syntax is vital for effective data analysis and threat detection.
+Opened Wireshark and selected the appropriate network interface (ens5) to begin capturing live packets. This step is essential for monitoring network traffic in real-time.
 
-**Task 4: Creating and Sharing Reports in Splunk**
+**Task 4: Analyzing Network Attacks**
 
-Focused on creating and sharing reports. This involves summarizing findings and sharing insights with relevant stakeholders, which is critical for proactive threat management and response.
+Analyzed and Categorized (Source, Destination, Protocol.. etc) the resulting traffic in Wireshark generated from the previous simulated attacks.
 
-**Task 5: Creating Dashboards in Splunk**
+**Task 5: Reporting and Visualizing Findings**
 
-Developed dashboards for continuous monitoring. Dashboards are essential for visualizing key metrics and real-time data to quickly assess and respond to threats.
-
+Documented the findings from the packet analysis and created visual representations of the network traffic. This step is critical for summarizing insights and sharing them with relevant stakeholders.
 
 <br />
 
 **Key Takeaways:**
 
-This lab enhanced my technical skills in using Splunk for real-time monitoring, detecting potential malicious activities, and complex data analysis. It also provided practical experience in managing and interpreting large datasets, which is crucial for effective cybersecurity defense strategies. The ability to customize and utilize Splunk's powerful searching and reporting tools prepares me for advanced cybersecurity monitoring and detection tasks.
+This lab enhanced my technical skills in using Wireshark for real-time network traffic analysis and detecting potential malicious activities. It provided practical experience in simulating network attacks and interpreting captured data, which is crucial for effective cybersecurity defense strategies. The ability to use Wireshark's powerful analysis tools prepares me for advanced network security monitoring and threat detection tasks.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Splunk Interface: Utilized for all data ingestion, searches, report generation, and dashboard creations.</b> 
+- <b>Attack Application: PS ATTACK ENGINE (Network TTPs) Used to simulate various network attacks.</b>
+- <b>Wireshark: Utilized for capturing and analyzing network traffic.</b> 
   
 
 <h2>Environments Used </h2>
 
-- <b>Splunk Environment: Conducted the project within Splunk’s own operational environment, which is optimized for data analysis and monitoring tasks. This setup is essential for handling large-scale data specific to cybersecurity needs.
+- <b>Linux Desktop Environment: The project was conducted in a Linux-based environment. This choice emphasizes a commitment to leveraging the powerful, versatile capabilities of Linux for network security tasks.
 
 </b>
 
