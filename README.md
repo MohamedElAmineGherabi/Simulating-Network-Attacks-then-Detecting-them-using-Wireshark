@@ -76,110 +76,71 @@ Task 2: Using the Attack Application: PS ATTACK ENGINE (Network TTPs) <br/>
 <br />
 <img src="https://i.imgur.com/h6bSKkH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-<img src="https://i.imgur.com/4O5PwxJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/4ugOS5N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <br />
 <br />
-<img src="https://i.imgur.com/ragQI34.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task 3: Capturing Packets with Wireshark <br/>
+<br />
+<img src="https://i.imgur.com/qCuwzEx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/OHODcnr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F3ds3kc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 
 
 <br />
 <br />
-Task 3: Performing Searches in Splunk <br/>
+Task 4: Analyzing Network Attacks  <br/>
 <br />
-<img src="https://i.imgur.com/ElF0FYj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/hgMv3oP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W2cai71.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/F8Kgihc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Vy6I4Yy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/XjngoaY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WNtZcm1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-<img src="https://i.imgur.com/5xuxeko.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/F3zMExf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/YgMoFYo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br />
 <br />
-Task 4: Creating and Sharing Reports in Splunk  <br/>
+Task 5: Reporting and Visualizing Findings  <br/>
 <br />
-<img src="https://i.imgur.com/6GSDBPv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/Aeh8OEW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RthwcTJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/zuE3XPx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XfOHw8m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/ABlgQuE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tyRux3P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/c5QLRr9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wtItEdr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/HKpWDjH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GtE8vLV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/fiaX8xR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mMnwneP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/D3WNr6q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g4xIhfp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/YBBDdBh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<img src="https://i.imgur.com/w9v7ttM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/ViW4aAy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
-<br />
-<br />
-Task 5: Creating Dashboards in Splunk  <br/>
-<br />
-<img src="https://i.imgur.com/76wBj83.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/fXlY8kh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/XbzAJrA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/tEqor2v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/7iUSsm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/m9N43WV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/q4bt5xH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/kx9pOJ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/1EyX2Fi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/vJNIJae.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br />
-<br />
-<img src="https://i.imgur.com/YyM4BHj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
