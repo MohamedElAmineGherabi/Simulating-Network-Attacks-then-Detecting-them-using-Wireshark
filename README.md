@@ -11,7 +11,7 @@ This lab focuses on using Wireshark, a powerful network protocol analyzer, to si
 
 Started by initializing the lab environment, which involved setting up the necessary infrastructure. This foundational step ensures that all tools and applications, including Wireshark and the Attack Application, are ready for use.
 
-**Task 2: Using the Attack Application (PS ATTACK ENGINE)**
+**Task 2: Using the Attack Application: PS ATTACK ENGINE (Network TTPs)**
 
 Learned how to use the Attack Application: PS ATTACK ENGINE (Network TTPs) to simulate different types of network attacks. This is crucial for generating the network traffic needed for analysis.
 
@@ -49,46 +49,32 @@ This lab enhanced my technical skills in using Wireshark for real-time network t
 
 <h2>Program walk-through:</h2>
 
-**In this lab, I was acting as a security analyst that is using Splunk to review log data related to the company's web application (buttercupgames).**<br/><br/>
 
-**In Task 1 & 2,** I opened Firefox and went to (http://172.31.24.10:8000), waited for Splunk to load, then logged in with the given credentials. After closing the pop-ups, I clicked Add data, chose Upload from your computer, and selected the tutorialdata.zip file from the lab folder. I set the Host to Segment in path with a value of 1, submitted the upload, and clicked Start Searching to access the data. <br/><br/>
-
-**In Task 3,** I started by running a keyword search for buttercupgames error to find related messages. Then I enabled the clientip field to get more specific data and saw that the IP 87.194.216.51 had the most errors. I clicked on it to run a field-based search. After that, I switched the SPL Editor to Full mode in Preferences to see more detailed suggestions while typing. Finally, I ran a transformational search using sourcetype=access_* status=200 action=purchase | top categoryId to find the most common purchase categories.<br/><br/> 
-
-**After that in Task 4,** I saved the previous transformational search by clicking Save as > Report, gave it the title Most popular categories with a description, and clicked Save. Then I viewed the report, edited the permissions to show it to the App and gave Everyone read access. After that, I went back to the search page, ran a new query for the top 10 client IPs, changed the time range to All time, clicked the Visualization tab, and switched the chart from bar to pie. <br/><br/>
-
-**Finally in task 5,** I started by running a search for purchases using sourcetype=access_* status=200 action=purchase, then added the fields date_mday, date_month, and itemId. After that, I ran a new search to find the most sold items by itemId, switched to the Visualization tab, and changed it to a Column Chart. I saved it to a new dashboard called Top Item Purchases. Then I ran another search for top date_mday, changed it to a Bar Chart, and added it to the same dashboard. Finally, I clicked View Dashboard to see both panels together.
-<br/><br/>
 
 
 <p align="center">
 Task 1: Getting Started in the Lab Environment <br/>
 <br />
-<img src="https://i.imgur.com/LU4vJsl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ve9YWOD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/RayxGso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ioFH947.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/z5sAusS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gU9RCdG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-<img src="https://i.imgur.com/czVBfTl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/t390Vx8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <br />
 <br />
-Task 2: Uploading Data to Splunk  <br/>
+Task 2: Using the Attack Application: PS ATTACK ENGINE (Network TTPs) <br/>
 <br />
-<img src="https://i.imgur.com/tBUG9CM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/k4Rbsny.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/obUVbvq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/p4Jac9C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cNN2BFC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/h6bSKkH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://i.imgur.com/4O5PwxJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
